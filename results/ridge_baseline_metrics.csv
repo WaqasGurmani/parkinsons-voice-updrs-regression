@@ -1,0 +1,2 @@
+model,alpha,target,split_seed,train_patients,test_patients,test_recordings,mae,rmse,r2
+Ridge,1.0,motor_UPDRS,42,33,9,1235,7.0605,8.718,-0.3035
