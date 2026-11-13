@@ -1,0 +1,4 @@
+metric,mean_fold_MAE
+baseline_MAE,7.270643410579855
+ridge_MAE,8.184268856858893
+extra_trees_MAE,8.271155919077026
